@@ -1,2 +1,5 @@
 test.cpp
 *.exe
+.vsocde
+*.json
+.gitignore
