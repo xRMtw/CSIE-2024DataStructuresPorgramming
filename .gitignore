@@ -1,4 +1,5 @@
-.vsocde
-test.cpp
+test.*
 *.json
 *.exe
+
+.vsocde/
